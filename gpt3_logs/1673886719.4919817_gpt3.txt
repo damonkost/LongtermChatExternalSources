@@ -1,0 +1,49 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: How do I impliment this?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+RAVEN: It looks like you are trying to run a Python script from the command line. To do this, you will need to open a command prompt window and navigate to the directory where the Python script is located. Once you are in the correct directory, you can type in the command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run the script. If you are running the script from a different directory, you will need to adjust the path accordingly. Additionally, you may need to specify the version of Python you are using, such as "python3 c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" if you are using Python 3.
+
+USER: is there another method that would not require these permissions?
+
+SNUFFLES: Absolutely. The command you specified is `C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"` which is the one you should use in order to run the Python script from the command line window. This command is a combination of paths, starting with the path to the directory of your Python executable. This is followed by the file path of your Python script, in this example it's the Google Calendar API script. 
+By entering this command into the command prompt window, it will launch the Python script and start up the connection with the Google Calendar API. The script will then proceed to use the API's methods to extract the calendar data and write it to a text file which can be used by you in any way you need. 
+I hope this answers your question and provides the clarity you were looking for. If you need any further assistance or have further inquiries, please do not hesitate to reach out and I'll be more than happy to help.
+
+USER: is there a simple app gui program that I can call the python code from?
+
+USER: can you give me a step by step of how to implement this?
+
+SNUFFLES: Sure! To build a Windows application executable that calls the Python code, you will need take the following steps:
+1. Compiling the Python code: You will need to first compile your Python code into an executable form. To do this, you will need to install the Pyinstaller library, which contains a set of tools to build a Windows executable from a Python script. Once installed, you can open the command prompt in your desired directory, specify the path of the Python script, and run Pyinstaller.
+2. Building your executable: At the command prompt, enter the command pyinstaller --onefile --windowed path\your_python_program.py. This will create the executable file in the specified directory. 
+3. Testing your executable: To test out your executable, you can open the command prompt, navigate to the executable's directory, and enter the command path\your_python_program.exe. If your executable is created properly, you should be able to properly execute your Python code.
+4. Creating a Windows app: To create a Windows application with your executable, open the Start Menu and select the 'Programs' option. Select the 'New Item' option, select 'Application' as the type of new item, browse to the executable file and select 'Open'. 
+5. Testing your application: Now, you should be able to use your Microsoft app to access your Python code. To test it out, open the application and select the 'Run' option. Your Python code should now be accessible in the desired application.
+With these 5 steps, you should have created a Windows application executable from your Python code. I hope this provides a helpful guide for implementing this. If there is anything else I can help you with, please don't hesitate to reach out.
+
+USER: how do I do the first step?
+
+SNUFFLES: The first step in the process is compiling the Python code into an executable form. To do this, you need to install the Pyinstaller library, which contains a set of tools to build a Windows executable from a Python script. To install Pyinstaller, you can either use a package manager like pip (python -m pip install pyinstaller), or download the source code from the Pyinstaller website and build it yourself. Once the Pyinstaller library is installed, you can open the command prompt in your desired directory and specify the path of the Python script you want to compile. At the command prompt, enter the command pyinstaller --onefile --windowed path\your_python_program.py. This will create the executable file in the specified directory. You can then use the executable file to create a Windows app and access your Python code. I hope this helps you understand the process of compiling your Python code into an executable form. Please don't hesitate to reach out if you have any additional questions. Have a great day!
+
+
+
+NOTES:
+
+==========
+
+- User is trying to run a Python script from the command line 
+- Step-by-step instruction includes navigating to the directory where the Python script is located and typing in the command "python c:..." or "python3 c:..." depending on the version
+- Alternative method provided to run the script from the command line window
+- Another option provided to good a Windows application executable that calls the Python code
+- 5 steps to build a Windows application executable that calls the Python code: 
+ 1. Compiling the Python code
+ 2. Building the executable
+ 3. Testing the executable
+ 4. Creating a Windows app
+ 5. Testing the application 
+- First step includes installing Pyinstaller library and running command pyinstaller --onefile --windowed path\your_python_program.py at the command prompt in the desired directory

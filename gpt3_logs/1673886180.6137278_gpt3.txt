@@ -1,0 +1,43 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: How do I impliment this?
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+SNUFFLES: Sure, I can provide you with a step-by-step plan for reading documents within your library, copying them to a new folder, and assigning them the naming convention you mentioned. 
+First, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. 
+Next, you will need to use a combination of SharePoint views, metadata, and search to organize and categorize your documents. You can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+Once you have organized and categorized your documents, you can use a free OCR tool, such as Microsoft Office Document Imaging (MODI) or Google Drive OCR, to convert the scanned documents into editable text. This will allow you to easily copy the documents to a new folder and assign them the naming convention you mentioned. 
+Finally, you will need to configure the SharePoint workflow to automatically rename the documents according to the naming convention. This will ensure that all documents in the library are properly named and organized. 
+I hope this helps! Please let me know if you have any further questions.
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: Where does the OCR step occur?
+
+USER: is there another method that would not require these permissions?
+
+USER: can you write me a macro using the naming conventions I described?
+
+USER: Can you write the macro for me?
+
+USER: Ok can you write the code for me?
+
+USER: give me a step by step of how to do this and the python code
+
+
+
+NOTES:
+
+==========
+
+- USER wants instruction on how to read documents within library, copy them to new folder and assign them the naming convention they mentioned
+- Step 1: Create a SharePoint list/library and create a workflow to rename files according to naming convention(LEVEL,AREA, EntityType, DocType, Entity, Date)
+- Step 2: Use SharePoint views, metadata and search to organize & categorise documents
+- Step 3: Use a free OCR tool (e.g Microsoft Office Document Imaging(MODI) or Google Drive OCR) to convert scanned documents into editable text
+- Step 4: Configure the SharePoint workflow to automatically rename documents according to the naming convention
+- Step 5: No other method for permissions available
+- No macro written
+- No Python code written

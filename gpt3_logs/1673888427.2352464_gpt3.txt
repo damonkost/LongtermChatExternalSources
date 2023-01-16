@@ -1,0 +1,45 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: How do I impliment this?
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: is there another method that would not require these permissions?
+
+USER: What should I do today?
+
+USER: is there a simple app gui program that I can call the python code from?
+
+USER: can you give me a step by step of how to implement this?
+
+USER: how do I do the first step?
+
+USER: should I literally include "--onefile"?
+
+USER: do I add it to my original chat.py text file?
+
+
+
+NOTES:
+
+==========
+
+- Read documents from library, copy and assign new naming convention: 
+ - Simple Step 1: Code and configure to read documents and copy in new folder 
+ - Simple Step 2: Assign the new naming convention 
+- Is there another method which does not require permissions?: 
+ - Step 1: Explore alternative methods which do not require permissions 
+- What to do today: 
+ - Step 1: Carry out tasks needed to impliment plan 
+- Is there a simple app gui program which can call the Python code?: 
+ - Step 1: Research and explore if a GUI program exists which can call the Python code 
+- How to impliment: 
+ - Step 1: Follow the step by step plan which includes coding and configuration 
+- How to do the first step: 
+ - Step 1: Follow the provided plan for implementing 
+- Should I include "--onefile": 
+ - Step 1: Yes, include "--onefile" in the original chat.py text file

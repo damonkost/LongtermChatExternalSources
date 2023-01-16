@@ -1,0 +1,43 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+SNUFFLES: Hi there! It's great to hear from you. As you know, a computer system is composed of four main components: hardware, software, data, and people. Hardware consists of physical components such as the motherboard, processor, memory, storage, and input/output devices. Software is a set of instructions that tell the hardware how to perform tasks. Data is the information that is processed by the computer. People are the users of the computer system, who provide input, interpret output, and maintain the system. I hope this helps to answer your question!
+
+USER: cool thanks. lets talk about circadian rhythms
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: I need help automatically organzining a sharepoint library for my work.  This library consists of many files that first need to be renamed with the following basic naming convention: LEVEL_AREA_EntityType_DocType_Entity_Date.  LEVEL indicates whether the file is "Program" (Related to overall grant management or compliance - for example subrecipient agreements or compliance documents) or "Project" (files such as change orders, work orders, technical documents and schedules).  AREA indicates whether the file has to with either planning, compliance, execution).  EntityType indicates whether the author or subject of the document is GOSR (the Government Office of Storm Recovery), a Subrecipient (Usually a municipality or entity that received grant funds to complete a project), or a Vendor (A firm hired to do design, inspection, or construction work).  DocType indicates the content of the document (Report, Agreement, Correspondence, Meeting, Techincal, Drawing, Work Order, Task Order, SRA, Change Order).  Entity is the name of the entity that is either the subject or author of the document (for example the specific municipality who is the subrecipient, or the name of a construction firm).  Date either refers to the date a document was created or if the document is an agreement, the date of the last signature).  
+
+SNUFFLES: It sounds like you need help automatically organizing a SharePoint library for your work. This is a great idea, as it will help you keep your documents organized and easily accessible. To get started, you will need to create a naming convention for your files. This naming convention should include the LEVEL, AREA, EntityType, DocType, Entity, and Date. LEVEL indicates whether the file is related to overall grant management or compliance, while AREA indicates whether the file has to do with planning, compliance, or execution. EntityType indicates whether the author or subject of the document is GOSR, a Subrecipient, or a Vendor. DocType indicates the content of the document, such as a report, agreement, correspondence, meeting, technical, drawing, work order, task order, SRA, or change order. Entity is the name of the entity that is either the subject or author of the document. Finally, Date either refers to the date a document was created or, if the document is an agreement, the date of the last signature. 
+Once you have established your naming convention, you can use a SharePoint workflow to automatically rename files according to the convention. This will help ensure that all of your files are properly named and organized. Additionally, you can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently.
+
+USER: How do I impliment this?
+
+SNUFFLES: To implement the naming convention and SharePoint workflow, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. You can also use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+SNUFFLES: Sure, I can provide you with a step-by-step plan for reading documents within your library, copying them to a new folder, and assigning them the naming convention you mentioned. 
+First, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. 
+Next, you will need to use a combination of SharePoint views, metadata, and search to organize and categorize your documents. You can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+Once you have organized and categorized your documents, you can use a free OCR tool, such as Microsoft Office Document Imaging (MODI) or Google Drive OCR, to convert the scanned documents into editable text. This will allow you to easily copy the documents to a new folder and assign them the naming convention you mentioned. 
+Finally, you will need to configure the SharePoint workflow to automatically rename the documents according to the naming convention. This will ensure that all documents in the library are properly named and organized. 
+I hope this helps! Please let me know if you have any further questions.
+
+
+
+NOTES:
+
+==========
+
+- SNUFFLES: Explained the four main components of a computer system: hardware, software, data, and people
+- User: Asked about circadian rhythms
+- SNUFFLES: Asked how they could help
+- User: Asked for help automatically organizing a SharePoint library
+- SNUFFLES: Explained the naming convention for the files and how to use a SharePoint workflow to automatically rename files
+- User: Asked how to implement the naming convention and SharePoint workflow
+- SNUFFLES: Explained how to create a SharePoint list or library, create a SharePoint workflow, use SharePoint views, metadata, and search to organize and categorize documents, use an OCR tool to convert scanned documents into editable text, and configure the SharePoint workflow to automatically rename documents according to the naming convention

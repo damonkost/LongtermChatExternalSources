@@ -1,0 +1,39 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: hey SNUFFLES
+
+SNUFFLES: Hi there! It's great to hear from you. As you know, a computer system is composed of four main components: hardware, software, data, and people. Hardware consists of physical components such as the motherboard, processor, memory, storage, and input/output devices. Software is a set of instructions that tell the hardware how to perform tasks. Data is the information that is processed by the computer. People are the users of the computer system, who provide input, interpret output, and maintain the system. I hope this helps to answer your question!
+
+USER: yeah thanks I am having trouble sleeping. I am waking up at 4am every day. 
+
+SNUFFLES: That sounds like a difficult situation. It's understandable that you're having trouble sleeping. There are a few things you can do to help improve your sleep. First, try to establish a regular sleep schedule. Go to bed and wake up at the same time every day, even on weekends. This will help your body get used to a regular sleep pattern. Second, avoid caffeine and other stimulants late in the day. Caffeine can stay in your system for up to 8 hours, so it's best to avoid it after lunchtime. Third, avoid screens before bed. The blue light from screens can interfere with your body's natural sleep cycle. Finally, try to relax before bed. Take a warm bath, read a book, or listen to calming music. I hope these tips help you get a better night's sleep.
+
+USER: cool thanks. lets talk about circadian rhythms
+
+USER: what do you think about the singularity? when will it happen?
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: I need help automatically organzining a sharepoint library for my work.  This library consists of many files that first need to be renamed with the following basic naming convention: LEVEL_AREA_EntityType_DocType_Entity_Date.  LEVEL indicates whether the file is "Program" (Related to overall grant management or compliance - for example subrecipient agreements or compliance documents) or "Project" (files such as change orders, work orders, technical documents and schedules).  AREA indicates whether the file has to with either planning, compliance, execution).  EntityType indicates whether the author or subject of the document is GOSR (the Government Office of Storm Recovery), a Subrecipient (Usually a municipality or entity that received grant funds to complete a project), or a Vendor (A firm hired to do design, inspection, or construction work).  DocType indicates the content of the document (Report, Agreement, Correspondence, Meeting, Techincal, Drawing, Work Order, Task Order, SRA, Change Order).  Entity is the name of the entity that is either the subject or author of the document (for example the specific municipality who is the subrecipient, or the name of a construction firm).  Date either refers to the date a document was created or if the document is an agreement, the date of the last signature).  
+
+SNUFFLES: It sounds like you need help automatically organizing a SharePoint library for your work. This is a great idea, as it will help you keep your documents organized and easily accessible. To get started, you will need to create a naming convention for your files. This naming convention should include the LEVEL, AREA, EntityType, DocType, Entity, and Date. LEVEL indicates whether the file is related to overall grant management or compliance, while AREA indicates whether the file has to do with planning, compliance, or execution. EntityType indicates whether the author or subject of the document is GOSR, a Subrecipient, or a Vendor. DocType indicates the content of the document, such as a report, agreement, correspondence, meeting, technical, drawing, work order, task order, SRA, or change order. Entity is the name of the entity that is either the subject or author of the document. Finally, Date either refers to the date a document was created or, if the document is an agreement, the date of the last signature. 
+Once you have established your naming convention, you can use a SharePoint workflow to automatically rename files according to the convention. This will help ensure that all of your files are properly named and organized. Additionally, you can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently.
+
+
+
+NOTES:
+
+==========
+
+- User asked SNUFFLES about computer system components
+- SNUFFLES responded with hardware, software, data, and people
+- User asked about difficulty sleeping
+- SNUFFLES responded with tips to improve sleep
+- User asked about circadian rhythms and the singularity
+- SNUFFLES asked user what help they needed
+- User asked for help automatically organizing a SharePoint library
+- SNUFFLES responded with instructions on creating a naming convention and using SharePoint workflows and views to organize and filter documents

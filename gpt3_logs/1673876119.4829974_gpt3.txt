@@ -1,0 +1,35 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: hey SNUFFLES
+
+USER: cool thanks. lets talk about circadian rhythms
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: How do I impliment this?
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: But in order to organize them I first need to OCR them.
+
+USER: can you write me a macro using the naming conventions I described?
+
+USER: Can you write the macro for me?
+
+
+
+NOTES:
+
+==========
+
+- User inquires about circadian rhythms
+- User requests a simple step-by-step plan to read documents within a library, copy them to a new folder and assign them a naming convention
+- User requests a more detailed step-by-step instruction
+- User mentions needing to OCR the documents
+- User requests a macro to be written using the naming conventions described

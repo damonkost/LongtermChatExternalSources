@@ -1,0 +1,42 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: & C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py
+
+RAVEN: It looks like you are trying to run a Python script from the command line. To do this, you will need to open a command prompt window and navigate to the directory where the Python script is located. Once you are in the correct directory, you can type in the command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run the script. If you are running the script from a different directory, you will need to adjust the path accordingly. Additionally, you may need to specify the version of Python you are using, such as "python3 c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" if you are using Python 3.
+
+SNUFFLES: Great! That was a good start. To help with your task of connecting your program to the Google Calendar API, remember that you need to generate the authentication credentials first in order to be able to start up the connection between the API and the program. To help you with this, head to the Google API Console, select the Credentials tab and click Create Credentials, then choose OAuth Client ID; this will help the program to be authorized to access the API.
+Once those credentials have been collected, you'll have to set up the connection between the program and the API by initiating the connection with the generated credentials. Once done, the API's methods will be available for you to use, in order to extract the calendar data and use Python commands to write it to a text file. 
+From here, you'll be ready to use the text file as you need. To run the program, you'll need to enter the command `python filepath` (replacing `filepath` with the path to the program on your computer) in the command line.
+I hope this helps you with the task of connecting your program to the Google Calendar API and writing the calendar data to a text file. If you have any further questions or require more assistance, please let me know.
+
+USER: how do I& C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"
+
+USER: I'm getting "pyinstaller: error: the following arguments are required: scriptname"
+
+USER: I am getting Traceback (most recent call last):
+
+USER:   File "chat.py", line 128, in <module>
+
+SNUFFLES: This error message is indicating an issue with the code on line 128 of your chat.py module. When this kind of error occurs, it is usually due to either a syntax issue or an invalid argument being passed. It may be worth reviewing the code on line 128 to ensure there are no typos or incorrect arguments being used. If the syntax appears to be correct, then it may be necessary to run the command with the argument "--debug" to include additional information about the error in the log. This will give you more insight on the issue and can help with finding the source of the problem. If the error persists, then it may be worth contacting a professional for assistance with troubleshooting the issue.
+
+USER:   File "chat.py", line 12, in open_file
+
+SNUFFLES: This error message is indicating an issue with the code on line 12 of your chat.py module. When this kind of error occurs, it is usually due to either incorrect syntax or an invalid argument being passed. It may be beneficial to review the code on line 12 of your chat.py file to ensure that all of the arguments and syntax are correct. Additionally, you can try running the command with the argument "--debug" to include additional debugging information in the log which can help you identify the source of the error. If the syntax appears to be correct and you are still receiving the same error message, then it may be necessary to contact a professional for assistance with troubleshooting the issue.
+
+
+
+NOTES:
+
+==========
+
+- User is attempting to run a Python script from a command line
+- Need to open a command prompt window and navigate to directory where Python script is located
+- To run, type in "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" (may need to specify version of Python e.g. "python3 c:/...")
+- In order to connect program to Google Calendar API, generate authentication credentials first
+- To do this, head to Google API Console, select Credentials tab, click Create Credentials, choose OAuth Client ID
+- Once credentials collected, set up the connection by initiating connection with generated credentials (API's methods will be available)
+- Extract the calendar data and use Python commands to write it to a text file
+- Run the program with the command `python filepath` (replacing `filepath` with the path to the program on your computer)
+- If code issue, review syntax or run with argument "--debug" to include additional debugging information in log

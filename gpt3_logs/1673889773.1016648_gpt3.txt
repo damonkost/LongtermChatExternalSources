@@ -1,0 +1,36 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: hey SNUFFLES
+
+USER: yeah thanks I am having trouble sleeping. I am waking up at 4am every day. 
+
+USER: cool thanks. lets talk about circadian rhythms
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: Ok can you write the code for me?
+
+USER: Hello
+
+USER: can you give me a step by step of how to implement this?
+
+USER: how do I do the first step?
+
+
+
+NOTES:
+
+==========
+
+- User inquires about not being able to sleep and question about Circadian Rhythms
+- Snuffles welcomes them and inquires what help they need
+- User asks for step by step instructions on how to do certain task 
+- User also inquires if Snuffles can code for them 
+- User inquires further about steps on implementing certain task 
+- User inquires more specifically about first step on implementing task

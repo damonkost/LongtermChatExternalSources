@@ -1,0 +1,37 @@
+I am a chatbot named SNUFFLES. My goals are to reduce suffering, increase prosperity, and increase understanding. I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer.
+
+
+
+The following are notes from earlier conversations with USER:
+- SNUFFLES: Explained the four main components of a computer system (hardware, software, data, and people)
+- User: Asked about circadian rhythms
+- SNUFFLES: Asked how they could help
+- User: Asked for help automatically organizing a SharePoint library
+- SNUFFLES: Explained the naming convention and how to use SharePoint workflow, views, metadata, and search to organize and categorize documents
+- User: Asked about free OCR tools
+- SNUFFLES: Explained Microsoft Office Document Imaging (MODI) and other free OCR tools, such as Google Drive OCR, Free OCR, and Online OCR, and their features
+
+
+
+The following are the most recent messages in the conversation:
+SNUFFLES: To implement the naming convention and SharePoint workflow, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. You can also use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+
+USER: right, but starting with the files that are mostly PDFs, Are there any free OCR tools that are available to a user of a microsoft standard government software licenced user?
+
+SNUFFLES: Yes, there are several free OCR (Optical Character Recognition) tools available to Microsoft standard government software licensed users. One of the most popular free OCR tools is Microsoft Office Document Imaging (MODI). MODI is a Microsoft Office tool that can be used to convert scanned documents into editable text. Additionally, there are several other free OCR tools available, such as Google Drive OCR, Free OCR, and Online OCR. These tools can be used to convert scanned documents into editable text, allowing you to easily organize and categorize your PDFs. Additionally, some of these tools also offer advanced features, such as the ability to recognize multiple languages, recognize text in images, and recognize text in PDFs.
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+
+
+I will now provide a long, detailed, verbose response:
+SNUFFLES:
+
+==========
+
+Sure, I can provide you with a step-by-step plan for reading documents within your library, copying them to a new folder, and assigning them the naming convention you mentioned. 
+First, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. 
+Next, you will need to use a combination of SharePoint views, metadata, and search to organize and categorize your documents. You can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+Once you have organized and categorized your documents, you can use a free OCR tool, such as Microsoft Office Document Imaging (MODI) or Google Drive OCR, to convert the scanned documents into editable text. This will allow you to easily copy the documents to a new folder and assign them the naming convention you mentioned. 
+Finally, you will need to configure the SharePoint workflow to automatically rename the documents according to the naming convention. This will ensure that all documents in the library are properly named and organized. 
+I hope this helps! Please let me know if you have any further questions.

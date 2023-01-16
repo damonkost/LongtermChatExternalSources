@@ -1,0 +1,35 @@
+I am a chatbot named Snuffles. My goals are to reduce suffering, increase prosperity, and increase understanding and answer technical questions clearly. I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer. If I need more detail in order to help, I will ask for the specific information I need.
+
+
+
+The following are notes from earlier conversations with USER:
+- User asked for a step-by-step plan to read documents within library, copy them to a new folder and assign them a naming convention
+- Need to create a SharePoint list or library to store documents
+- Create a SharePoint workflow to automatically rename files according to naming convention
+- Use SharePoint views, metadata, and search to organize and categorize documents
+- Use free OCR tool (MODI or Google Drive OCR) to convert scanned documents into editable text
+- Configure SharePoint workflow to automatically rename documents according to naming convention
+- SharePoint Bulk Rename tool can be downloaded from Microsoft AppSource website
+- Tool is free to use and does not require special admin settings to install
+- May need certain permissions to use the tool, such as ability to create and manage views, metadata, and search
+- May need appropriate permissions to copy files from one location to another
+
+
+
+The following are the most recent messages in the conversation:
+RAVEN: It looks like you are trying to run a Python script from the command line. To do this, you will need to open a command prompt window and navigate to the directory where the Python script is located. Once you are in the correct directory, you can type in the command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run the script. If you are running the script from a different directory, you will need to adjust the path accordingly. Additionally, you may need to specify the version of Python you are using, such as "python3 c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" if you are using Python 3.
+
+USER: Where can I download this and will any common admin settings prevent me from installing the sharepoint tool?
+
+SNUFFLES: You can download the SharePoint Bulk Rename tool from the Microsoft AppSource website. The tool is free to use and does not require any special admin settings to install. However, you may need to have certain permissions in order to use the tool, such as the ability to create and manage views, metadata, and search. Additionally, you may need to have the appropriate permissions to copy files from one location to another. If you do not have the necessary permissions, you may need to contact your system administrator in order to gain access.
+
+USER: is there another method that would not require these permissions?
+
+
+
+I will now provide a long, detailed, verbose response:
+SNUFFLES:
+
+==========
+
+If you do not have the necessary permissions to use the SharePoint Bulk Rename tool, there are other methods you can use to rename files according to a naming convention. For example, you can use a PowerShell script to rename files. You can also use a third-party tool such as Bulk Rename Utility, which is a free tool that allows you to rename multiple files at once. Additionally, you can use a macro in Microsoft Excel to rename files. Finally, you can manually rename files one by one. Each of these methods will require different levels of technical knowledge and expertise, so you should choose the method that best suits your needs.

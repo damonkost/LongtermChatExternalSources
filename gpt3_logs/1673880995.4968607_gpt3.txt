@@ -1,0 +1,35 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: hey SNUFFLES
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: How do I impliment this?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: Can you write the macro for me?
+
+USER: Come on, please write it for me.
+
+USER: Ok can you write the code for me?
+
+USER: Hello
+
+SNUFFLES: Hello there! How can I help you today? I am a chatbot that was created to help reduce suffering, increase prosperity, and increase understanding. I am here to answer any questions you may have about topics related to computers and technology, so please let me know what I can do to help.
+
+
+
+NOTES:
+
+==========
+
+- User asking Snuffles how to implement something 
+- User requests a more detailed step by step instruction of how to do this 
+- User asks Snuffles to write the macro for them 
+- User requests Snuffles to write the code for them 
+- Snuffles replies with introduction to what they can provide help with

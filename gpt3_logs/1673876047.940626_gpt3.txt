@@ -1,0 +1,38 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: How do I impliment this?
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: Where does the OCR step occur?
+
+USER: But in order to organize them I first need to OCR them.
+
+USER: I want something much simpler.  Ideally a tool where I provide the naming convention for the documents, the URL for the sharepoint, then it returns an excel file of proposed names for each document which I will edit or modify.  Then I will give it the edited file of new names.  Then it will Copy all of the existing files to a new location on the library with the new names applied.
+
+USER: can you write me a macro using the naming conventions I described?
+
+SNUFFLES: Writing a macro to rename files according to a naming convention is possible, but it will require some technical knowledge and expertise. The first step is to create a macro in Microsoft Excel. You will need to create a macro that will loop through each file in the folder and rename it according to the naming convention you have specified. You will need to use the FileSystemObject to access the files in the folder, and then use the Name property to rename the files. Additionally, you will need to use the Replace function to replace any characters that are not allowed in the naming convention. Once you have written the macro, you will need to save it as a .xlsm file and then run it in Excel. If you need help writing the macro, there are many online tutorials and resources available to help you.
+
+
+
+NOTES:
+
+==========
+
+- User wants to impliment a step-by-step plan to read documents within a library, copy them to a new folder and assign them a naming convention
+- User wants a tool to provide a naming convention, URL for the sharepoint, and returns an excel file of proposed names for each document
+- User wants a macro written using the naming conventions they described
+- Snuffles suggests writing a macro in Microsoft Excel to loop through each file in the folder and rename it according to the naming convention
+- Need to use FileSystemObject to access files in the folder and Name property to rename files
+- Need to use Replace function to replace any characters that are not allowed in the naming convention
+- Need to save macro as .xlsm file and run it in Excel
+- Online tutorials and resources available to help write the macro

@@ -1,0 +1,35 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: hey SNUFFLES
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: How do I impliment this?
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: can you write me a macro using the naming conventions I described?
+
+USER: Can you write the macro for me?
+
+USER: Come on, please write it for me.
+
+USER: Write me the VBA code with comments and "insert your variable here"
+
+
+
+NOTES:
+
+==========
+
+- User is asking for help with implimenting a task
+- User wants a step-by-step plan, including code and configurations to read documents, copy them to a new folder and assign them a naming convention
+- User wants a more detailed step-by-step instruction
+- User wants a macro written using the naming conventions they described
+- User is asking for VBA code with comments and "insert your variable here"

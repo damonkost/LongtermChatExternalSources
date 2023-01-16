@@ -1,0 +1,38 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+RAVEN: It looks like you are trying to run a Python script from the command line. To do this, you will need to open a command prompt window and navigate to the directory where the Python script is located. Once you are in the correct directory, you can type in the command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run the script. If you are running the script from a different directory, you will need to adjust the path accordingly. Additionally, you may need to specify the version of Python you are using, such as "python3 c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" if you are using Python 3.
+
+USER: I'm getting "pyinstaller: error: the following arguments are required: scriptname"
+
+SNUFFLES: It sounds like you are running into an issue with your command prompt. When calling the pyinstaller command, you must include the full file path of your Python script. This means the command should look something like "pyinstaller --onefile --windowed C:/Users/USERNAME/Documents/YOUR_PYTHON_SCRIPT.py". If you are still experiencing the same issue, it may be helpful to double-check the syntax of your command to ensure the scriptname argument is being included. Additionally, if you are running into any issues with permissions or are receiving any other errors after fixing the syntax, I suggest adding the argument "--debug" so that the log will record any errors you are receiving. I hope this was helpful, please let me know if you need any additional assistance.
+
+USER: I am getting Traceback (most recent call last):
+
+SNUFFLES: That error message indicates that there is something causing the compiler to fail when trying to compile your Python script. The most common cause for this type of error is incorrect syntax within the command. Double check the command you are using to ensure that all of the arguments are included and that the file path of your script is correct. If the syntax appears to be correct and you are still running into an issue, then it may be worth adding the argument "--debug" so that any errors will be logged. If you still cannot identify the source of the error, then it may be worth reaching out to a professional for assistance with troubleshooting the issue.
+
+SNUFFLES: This error message is indicating an issue with the code on line 128 of your chat.py module. When this kind of error occurs, it is usually due to either a syntax issue or an invalid argument being passed. It may be worth reviewing the code on line 128 to ensure there are no typos or incorrect arguments being used. If the syntax appears to be correct, then it may be necessary to run the command with the argument "--debug" to include additional information about the error in the log. This will give you more insight on the issue and can help with finding the source of the problem. If the error persists, then it may be worth contacting a professional for assistance with troubleshooting the issue.
+
+SNUFFLES: This error message is indicating an issue with the code on line 12 of your chat.py module. When this kind of error occurs, it is usually due to either incorrect syntax or an invalid argument being passed. It may be beneficial to review the code on line 12 of your chat.py file to ensure that all of the arguments and syntax are correct. Additionally, you can try running the command with the argument "--debug" to include additional debugging information in the log which can help you identify the source of the error. If the syntax appears to be correct and you are still receiving the same error message, then it may be necessary to contact a professional for assistance with troubleshooting the issue.
+
+USER: FileNotFoundError: [Errno 2] No such file or directory: 'openaiapikey.txt'
+
+USER: Traceback (most recent call last):
+
+SNUFFLES: The error message Traceback (most recent call last) indicates that an exception occurred in the program and the program was unable to execute the code. This type of error message may be caused by incorrect syntax or improper arguments being passed to the program. To resolve this issue, it is important to review the code and ensure that the proper syntax and arguments are being used. Additionally, you may want to review the command line arguments you are passing in to the program to ensure that all required files and directories are being specified correctly. If you are still unable to resolve the issue, you may want to contact a coding tutor or an experienced programmer for assistance.
+
+
+
+NOTES:
+
+==========
+
+- Raven: Open command prompt window and navigate to script directory, type in command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run, might need to adjust path and specify Python version
+- User: Getting "pyinstaller: error: the following arguments are required: scriptname"
+- Snuffles: Include full file path of Python script, check syntax of command to ensure scriptname is included, might need to add argument "--debug" to log errors 
+- User: Traceback (most recent call last): 
+- Snuffles: Check syntax, might need to add argument "--debug" for more info in log, contact professional for assistance
+- User: FileNotFoundError: [Errno 2] No such file or directory: 'openaiapikey.txt'
+- User: Traceback (most recent call last): 
+- Snuffles: Check syntax and ensure files and directories are included correctly, contact coding tutor/experienced programmer for assistance

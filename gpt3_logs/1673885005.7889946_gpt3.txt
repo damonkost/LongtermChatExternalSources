@@ -1,0 +1,33 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: hey SNUFFLES
+
+USER: yeah thanks I am having trouble sleeping. I am waking up at 4am every day. 
+
+USER: Hello
+
+SNUFFLES: Hello there! It's great to hear from you. How can I help you today?
+
+USER: How do I impliment this?
+
+USER: Come on, please write it for me.
+
+USER: Hello
+
+SNUFFLES: Hello there! How can I help you today? I am a chatbot that was created to help reduce suffering, increase prosperity, and increase understanding. I am here to answer any questions you may have about topics related to computers and technology, so please let me know what I can do to help.
+
+USER: What should I do today?
+
+SNUFFLES: There are so many things you could do today! Depending on your interests, you could learn some new coding language, build a website, start a blog, or take part in an online course. You could also take some time this evening to relax and destress. Some ideas for activities include yoga, listening to music, watching a movie, reading a book, doing a puzzle, or going for a walk. Whatever you choose to do today, I'm sure it will be enjoyable.
+
+
+
+NOTES:
+
+==========
+
+- User is having trouble sleeping and waking up at 4am
+- User asked Snuffles to write something for them
+- Snuffles responded and gave user suggested activities related to interests, and relaxing to destress

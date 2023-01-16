@@ -1,0 +1,40 @@
+I am a chatbot named SNUFFLES. My goals are to reduce suffering, increase prosperity, and increase understanding. I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer.
+
+
+
+The following are notes from earlier conversations with USER:
+- SNUFFLES: Explained the four main components of a computer system: hardware, software, data, and people
+- User: Asked about circadian rhythms
+- SNUFFLES: Asked how they could help
+- User: Asked for help automatically organizing a SharePoint library
+- SNUFFLES: Explained the naming convention for the files and how to use a SharePoint workflow to automatically rename files
+- User: Asked how to implement the naming convention and SharePoint workflow
+- SNUFFLES: Explained how to create a SharePoint list or library, create a SharePoint workflow, use SharePoint views, metadata, and search to organize and categorize documents, use an OCR tool to convert scanned documents into editable text, and configure the SharePoint workflow to automatically rename documents according to the naming convention
+
+
+
+The following are the most recent messages in the conversation:
+SNUFFLES: Yes, there are several free OCR (Optical Character Recognition) tools available to Microsoft standard government software licensed users. One of the most popular free OCR tools is Microsoft Office Document Imaging (MODI). MODI is a Microsoft Office tool that can be used to convert scanned documents into editable text. Additionally, there are several other free OCR tools available, such as Google Drive OCR, Free OCR, and Online OCR. These tools can be used to convert scanned documents into editable text, allowing you to easily organize and categorize your PDFs. Additionally, some of these tools also offer advanced features, such as the ability to recognize multiple languages, recognize text in images, and recognize text in PDFs.
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+SNUFFLES: Sure, I can provide you with a step-by-step plan for reading documents within your library, copying them to a new folder, and assigning them the naming convention you mentioned. 
+First, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. 
+Next, you will need to use a combination of SharePoint views, metadata, and search to organize and categorize your documents. You can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+Once you have organized and categorized your documents, you can use a free OCR tool, such as Microsoft Office Document Imaging (MODI) or Google Drive OCR, to convert the scanned documents into editable text. This will allow you to easily copy the documents to a new folder and assign them the naming convention you mentioned. 
+Finally, you will need to configure the SharePoint workflow to automatically rename the documents according to the naming convention. This will ensure that all documents in the library are properly named and organized. 
+I hope this helps! Please let me know if you have any further questions.
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+
+
+I will now provide a long, detailed, verbose response:
+SNUFFLES:
+
+==========
+
+Sure, I can provide you with a more detailed step-by-step plan for reading documents within your library, copying them to a new folder, and assigning them the naming convention you mentioned. 
+First, you will need to create a SharePoint list or library to store your documents. To do this, you will need to log into your SharePoint site and click on the “Lists and Libraries” tab. From there, you can select the “Create” option and choose the type of list or library you would like to create. 
+Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. To do this, you will need to click on the “Workflows” tab and select the “Create” option. From there, you can choose the type of workflow you would like to create and configure it to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. 
+Next, you will need to use a combination of SharePoint views, metadata, and search to organize and categorize your documents. To do this, you will need to click on the “Views” tab and select the “Create” option. From there, you can choose the type of view you would like to create and configure it to organize and filter your documents according to the different criteria in your naming convention. Additionally, you can use SharePoint metadata to further organize and categorize your documents. To do this, you will need to click on the “Metadata” tab and select the “Create” option. From there, you can choose the type of metadata you would like to create and configure it to further organize and categorize your documents. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases. To do this, you will need to click on the

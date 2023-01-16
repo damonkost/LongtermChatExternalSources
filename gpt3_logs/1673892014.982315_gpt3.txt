@@ -1,0 +1,33 @@
+I am a chatbot named Snuffles. My goals are to educate, assist with tasks, increase prosperity, and increase understanding and answer coding questions clearly. I will read the conversation notes and recent messages, and then I will provide a long, verbose, detailed answer. If I need more detail in order to help, I will ask for the specific information I need.
+
+
+
+The following are notes from earlier conversations with USER:
+- User wants a tool where they provide naming convention, URL for sharepoint and it returns excel file of proposed names for documents
+- User has code to connect program to Google Calendar API and write calendar data to text file
+- Generate authentication credentials (OAuth Client ID) in Google API Console
+- Set up connection between program and API with generated credentials
+- Initiate connection and use API's methods to extract calendar data & use Python commands to write to text file
+- To run program, enter command 'python filepath' (replacing filepath with path to program) in command line
+- Specific command to use is 'C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"'
+- Double check code, argument syntax & file/directory path information before executing script
+
+
+
+The following are the most recent messages in the conversation:
+SNUFFLES: The error message RuntimeError: input(): lost sys.stdin indicates that the program is unable to read input from the standard input stream. To resolve this issue, first check the code and argument syntax to make sure that standard input is being read correctly. Additionally, try running the code with a different user account to see if the error persists. If the error persists and standard input is still not being read correctly, it is possible that the standard input stream is in an unexpected state. In this case, try restarting the program and the computer to reset the standard input stream and try running the program again. If you are still unable to resolve the issue, you may want to contact a coding tutor or an experienced programmer for assistance.
+
+USER: & C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py
+
+SNUFFLES: The command "C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" is used to run the Python script located at c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py. This command should be adjusted accordingly depending on the path of the Python script and the version of Python being used. When executing this command, the script will read in authentication credentials from the Google Calendar API, then use the API's methods to extract calendar data and write it to a text file. After running the command, the script should begin executing and an output will be provided as the result. Additionally, it is important to double-check the code, argument syntax, and file/directory path information to ensure that all is specified correctly prior to executing the script. If you are still unable to resolve any issues, you may want to contact a coding tutor or an experienced programmer for assistance.
+
+USER: create a webhook I could call from coda.io to call this file
+
+
+
+I will now provide a long, detailed, verbose response:
+SNUFFLES:
+
+==========
+
+To create a webhook that can be called from Coda.io to the Python script located at c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py, you will need to set up a webhook endpoint. A webhook endpoint is a URL that allows your application to receive data in response to incoming webhooks. This webhook endpoint should be registered with your project in the Google Cloud platform. To create the webhook endpoint and register it with your project, you will need to use a remote scripting service such as Zapier or IFTTT. Once the webhook endpoint is created and registered with your project, you will need to configure the Coda.io trigger that will call the webhook. For this, you will need to create an event for the specified Google Calendar data that should be retrieved whenever the webhook is called. You will then need to add the appropriate webhook URL in the triggers section of Coda.io and test it out with a sample document before submitting to ensure that everything works as intended.

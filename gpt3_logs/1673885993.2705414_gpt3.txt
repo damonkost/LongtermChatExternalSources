@@ -1,0 +1,50 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: & C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py
+
+RAVEN: It looks like you are trying to run a Python script from the command line. To do this, you will need to open a command prompt window and navigate to the directory where the Python script is located. Once you are in the correct directory, you can type in the command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run the script. If you are running the script from a different directory, you will need to adjust the path accordingly. Additionally, you may need to specify the version of Python you are using, such as "python3 c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" if you are using Python 3.
+
+USER: write me a python program that imports my google calendar to a text file
+
+USER: give me a step by step of how to do this and the python code
+
+USER: & C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"
+
+USER: & C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"
+
+USER: & C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"
+
+USER: how do I& C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"
+
+SNUFFLES: Sure thing. In order to run your Python script from the command prompt window, you need to open the window and navigate to the directory where the script is located. Once the window and directory have been set, you will need to type in the command `python C:/.../chat.py` (replacing `C:/.../chat.py` with the specific file path to your Python script) to run the script. 
+If you're running the script from a different directory, you'll need to adjust the path accordingly. Additionally, if you're using Python 3, you'll need to use the command `python3 C:/.../chat.py` instead.
+Once the script is up and running, it will read in the authentication credentials from the Google Calendar API and then proceed to use the API's methods to extract the calendar data and write it to the text file.
+In your case, the command to use in order to run the script would be `C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"`.
+I hope this has provided some clarity in regards to how to run the Python script from the command line. If you have any further questions or need any more assistance, please let me know.
+
+SNUFFLES: Sure thing. In our earlier exchange, I outlined the steps to take in order to connect your program to the Google Calendar API and write the calendar data to a text file. Below is a recap of those steps: 
+First, you need to generate the authentication credentials in order to be able to start up the connection between the API and the program. To do this, head to the Google API Console, select the Credentials tab and click Create Credentials, then choose OAuth Client ID.
+Once those credentials have been collected, you'll have to set up the connection between the program and the API by initiating the connection with the generated credentials. You can use the API's methods to extract the calendar data and use Python commands to write it to a text file. 
+After that, the final step involves running the program from the command line by typing in the command `python C:/.../chat.py` (replacing `C:/.../chat.py` with the specific file path to your Python script). If you're running the script from another directory, make sure to adjust the file path accordingly. 
+Finally, I provided you with the specific command to use in your case, which is `C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"`
+I hope this has provided the answer that you were looking for in regards to the exchange we had earlier. If you have any further questions or require more assistance, please let me know.
+
+
+
+NOTES:
+
+==========
+
+- User wants to run a Python script from the command line 
+- Need to open a command prompt window and navigate to the script's directory 
+- Need to type command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run script
+- May need to specify version of Python if using Python 3 
+- User wants a Python program that imports Google Calendar to a text file 
+- Need to generate authentication credentials in Google API Console 
+- Initiate connection with generated credentials and use API's methods to extract calendar data 
+- Use Python commands to write calendar data to text file 
+- Type command "python c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/chat.py" to run script 
+- Need to adjust file path if using a different directory
+- Specific command for user's case is "C:/Users/damon/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/damon/OneDrive/Documents/GitHub/LongtermChatExternalSources/Import Google Cal.py"

@@ -1,0 +1,45 @@
+Write detailed notes of the following in a hyphenated list format like "- "
+
+
+
+USER: Hello
+
+USER: How do I impliment this?
+
+USER: right, but starting with the files that are mostly PDFs, Are there any free OCR tools that are available to a user of a microsoft standard government software licenced user?
+
+USER: can you give me a simple step-by-step plan, including any code and configurations I would need to read the documents within the library, copy them to a new folder and assign them the naming convention I had mentioned?
+
+SNUFFLES: Sure, I can provide you with a step-by-step plan for reading documents within your library, copying them to a new folder, and assigning them the naming convention you mentioned. 
+First, you will need to create a SharePoint list or library to store your documents. Once you have created the list or library, you can create a SharePoint workflow to automatically rename files according to the naming convention. This workflow will need to include the LEVEL, AREA, EntityType, DocType, Entity, and Date criteria. 
+Next, you will need to use a combination of SharePoint views, metadata, and search to organize and categorize your documents. You can use SharePoint views to organize and filter your documents according to the different criteria in your naming convention. This will make it easier to find the documents you need quickly and efficiently. Additionally, you can use SharePoint metadata to further organize and categorize your documents. This will help you keep track of the different types of documents you have in your library. Finally, you can use SharePoint search to quickly find documents based on keywords or phrases.
+Once you have organized and categorized your documents, you can use a free OCR tool, such as Microsoft Office Document Imaging (MODI) or Google Drive OCR, to convert the scanned documents into editable text. This will allow you to easily copy the documents to a new folder and assign them the naming convention you mentioned. 
+Finally, you will need to configure the SharePoint workflow to automatically rename the documents according to the naming convention. This will ensure that all documents in the library are properly named and organized. 
+I hope this helps! Please let me know if you have any further questions.
+
+USER: give me a more detailed step by step instruction of how to do this.
+
+USER: I want something much simpler.  Ideally a tool where I provide the naming convention for the documents, the URL for the sharepoint, then it returns an excel file of proposed names for each document which I will edit or modify.  Then I will give it the edited file of new names.  Then it will Copy all of the existing files to a new location on the library with the new names applied.
+
+USER: is sharepoint bulk rename free?
+
+USER: Where can I download this and will any common admin settings prevent me from installing the sharepoint tool?
+
+SNUFFLES: You can download the SharePoint Bulk Rename tool from the Microsoft AppSource website. The tool is free to use and does not require any special admin settings to install. However, you may need to have certain permissions in order to use the tool, such as the ability to create and manage views, metadata, and search. Additionally, you may need to have the appropriate permissions to copy files from one location to another. If you do not have the necessary permissions, you may need to contact your system administrator in order to gain access.
+
+
+
+NOTES:
+
+==========
+
+- User asked for a step-by-step plan to read documents within library, copy them to a new folder and assign them a naming convention
+- Need to create a SharePoint list or library to store documents
+- Create a SharePoint workflow to automatically rename files according to naming convention
+- Use SharePoint views, metadata, and search to organize and categorize documents
+- Use free OCR tool (MODI or Google Drive OCR) to convert scanned documents into editable text
+- Configure SharePoint workflow to automatically rename documents according to naming convention
+- SharePoint Bulk Rename tool can be downloaded from Microsoft AppSource website
+- Tool is free to use and does not require special admin settings to install
+- May need certain permissions to use the tool, such as ability to create and manage views, metadata, and search
+- May need appropriate permissions to copy files from one location to another
